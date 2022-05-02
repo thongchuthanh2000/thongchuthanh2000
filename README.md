@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thongchuthanh2000
-- 👀 I’m interested in Java, Node Js
+- 👀 I’m interested in Java, Js, Python, And C#
 - 🌱 I’m currently learning aws
 - 📫 How to reach me: thongchuthanh2000@gmail.com
 
